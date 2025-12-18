@@ -50,5 +50,3 @@ function Get-InstalledNvidiaAppVersion {
         return $null
     }
 }
-
-$installedVersion = Get-InstalledNvidiaAppVersion
